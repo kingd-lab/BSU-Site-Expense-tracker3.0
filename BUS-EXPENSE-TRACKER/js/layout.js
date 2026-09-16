@@ -32,6 +32,7 @@ const Layout = (function () {
       { href: 'report.html', icon: ICONS.bar, label: 'Reports' },
       { href: 'final-report.html', icon: ICONS.file, label: 'Final Report' },
       { href: 'cash-book.html', icon: ICONS.bar, label: 'Cash Book' },
+      { href: 'import-cash-book.html', icon: ICONS.upload, label: 'Import Cash Book' },
       { href: 'projects.html', icon: ICONS.pulse, label: 'Project Health' },
       { href: 'block-production.html', icon: ICONS.layers, label: 'Block Production' },
       { href: 'excavation-tracker.html', icon: ICONS.excavate, label: 'Excavation of Trenches' },
